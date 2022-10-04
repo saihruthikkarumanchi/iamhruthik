@@ -1,1 +1,1 @@
-I have published the code on this website, Feel free to visit and play the game - https://g01352466.ccbp.tech/
+I am currently updating my repository with the codes that i developed as my projects, feel free to have a look at them
